@@ -11,13 +11,13 @@ class Restaurant:
         print(f"{self.restaurant_name} is now open!\n")
 
 
-restaurant = Restaurant('Bar do Aldo', 'coração de boy')
+restaurant = Restaurant('Bar do Aldo', 'coração de boi')
 
 restaurant.describe_restaurant()
 restaurant.open_restaurant()
 
-restaurant_2 = Restaurant('Clube do bolinha', 'Alcool congelador de mentes')
-restaurant_3 = Restaurant('Sitio do Shelby', 'Drogas pesadas')
+restaurant_2 = Restaurant('Clube do bolinha', 'Lanches leves')
+restaurant_3 = Restaurant('Sitio do Shelby', 'Carne humana')
 
 restaurant_2.describe_restaurant()
 restaurant_3.describe_restaurant()
