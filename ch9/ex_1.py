@@ -1,6 +1,7 @@
 class Dog:
     """ Simples tentativa de modelar um cachorro """
 
+
     def __init__(self, name, age):
         """ Inicializa os atributos de nome e idade """
         self.name = name
