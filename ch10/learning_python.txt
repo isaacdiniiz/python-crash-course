@@ -1,0 +1,3 @@
+No Python, podemos usar a Programação Orientada a Objetos
+No Python, podemos criar programas dinâmicos e de fácil leitura
+No Python, usamos da simplicidade para resolver problemas complexos
